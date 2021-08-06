@@ -2,3 +2,6 @@ _cache
 bin
 *.patch
 *sync.sh
+build.sh
+bundle
+bundle.Dockerfile
